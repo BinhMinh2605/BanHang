@@ -19,12 +19,12 @@
 <img align="left" src="img_readme\Capture9.PNG">
 <li> Xem sản phẩm đã mua
 <img align="left" src="img_readme\Capture10.PNG">
+  <li>Gửi email cho người dùng</li>
+<img align="left" src="img_readme\Capture14.PNG">
 <li> Xem sản phẩm hot theo bình luận-đánh giá và Lọc sản phẩm theo giá</li>
 <img align="left" src="img_readme\Capture11.PNG">
 <img align="left" src="img_readme\Capture12.PNG">
 <img align="left" src="img_readme\Capture13.PNG">
-<li>Gửi email cho người dùng</li>
-<img align="left" src="img_readme\Capture14.PNG">
 
 
 
