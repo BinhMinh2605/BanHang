@@ -1,9 +1,6 @@
 # BanHang
-Ảnh index của trang web
+<li>Ảnh index của trang web</li>
 <img align="left" src="img_readme\Capture1.PNG">
-
-
-
 Sản phẩm nổi bật
 <img align="left" src="img_readme\Capture2.PNG">
 
