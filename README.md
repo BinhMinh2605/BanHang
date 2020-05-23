@@ -19,9 +19,9 @@
 <img align="left" src="img_readme\Capture9.PNG">
 <li> Xem sản phẩm đã mua
 <img align="left" src="img_readme\Capture10.PNG">
-<li> Xem sản phẩm hot theo bình luận-đánh giá
+<li> Xem sản phẩm hot theo bình luận-đánh giá</li>
 <img align="left" src="img_readme\Capture11.PNG">
-<li> Lọc sản phẩm theo giá
+<li> Lọc sản phẩm theo giá</li>
 <img align="left" src="img_readme\Capture12.PNG">
 
 
