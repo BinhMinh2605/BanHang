@@ -23,6 +23,8 @@
 <img align="left" src="img_readme\Capture11.PNG">
 <img align="left" src="img_readme\Capture12.PNG">
 <img align="left" src="img_readme\Capture13.PNG">
+<li>Gửi email cho người dùng</li>
+<img align="left" src="img_readme\Capture14.PNG">
 
 
 
