@@ -1,15 +1,13 @@
 # BanHang
-<li>Ảnh index của trang web</li>
+#<li>Ảnh index của trang web</li>
 <img align="left" src="img_readme\Capture1.PNG">
-<br>
-<li>Sản phẩm nổi bật</li>
+#<li>Sản phẩm nổi bật</li>
 <img align="left" src="img_readme\Capture2.PNG">
-<br>
 <li>Danh mục sản phẩm</li>
 <img align="left" src="img_readme\Capture3.PNG">
-<li>Tìm kiếm sản phẩm có gợi ý</li>
+#<li>Tìm kiếm sản phẩm có gợi ý</li>
 <img align="left" src="img_readme\Capture4.PNG">
-<li>Đăng nhập-có báo lỗi khi nhập sai</li>
+#<li>Đăng nhập-có báo lỗi khi nhập sai</li>
 <img align="left" src="img_readme\Capture5.PNG">
 <li>Thông tin sản phẩm-báo lỗi khi chưa đăng nhập</li>
 <img align="left" src="img_readme\Capture6.PNG">
@@ -21,6 +19,10 @@
 <img align="left" src="img_readme\Capture9.PNG">
 <li>Xem sản phẩm đã mua</li>
 <img align="left" src="img_readme\Capture10.PNG">
+<li>Xem sản phẩm hot theo bình luận-đánh giá</li>
+<img align="left" src="img_readme\Capture11.PNG">
+<li>Lọc sản phẩm theo giá</li>
+<img align="left" src="img_readme\Capture12.PNG">
 
 
 
