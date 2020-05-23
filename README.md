@@ -22,6 +22,7 @@
 <li> Xem sản phẩm hot theo bình luận-đánh giá và Lọc sản phẩm theo giá</li>
 <img align="left" src="img_readme\Capture11.PNG">
 <img align="left" src="img_readme\Capture12.PNG">
+<img align="left" src="img_readme\Capture13.PNG">
 
 
 
